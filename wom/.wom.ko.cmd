@@ -1,0 +1,1 @@
+cmd_/home/jan/Desktop/meltdown/lab3/wom/wom.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/jan/Desktop/meltdown/lab3/wom/wom.ko /home/jan/Desktop/meltdown/lab3/wom/wom.o /home/jan/Desktop/meltdown/lab3/wom/wom.mod.o ;  true
